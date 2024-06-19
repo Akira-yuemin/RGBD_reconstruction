@@ -2,7 +2,7 @@
 
 Point cloud reconstruction was accomplished using a dual depth camera to provide the robot with subsequent grasping and assembly
 
-test scenario refers to interaction.jpg
+test scenario refers to interaction.jpg & calibration.jpg
 
 Environment requirements refer to the folder
 
